@@ -47,7 +47,7 @@ I'm **Rupa**, a passionate **Software Quality Assurance (SQA) Engineer** at **Ne
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css5&logoColor=white" />
 </p>
 
 ### 🔧 Testing & Automation Tools
@@ -99,15 +99,15 @@ I'm **Rupa**, a passionate **Software Quality Assurance (SQA) Engineer** at **Ne
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:deyrupa.qa525@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/rupadey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/rupa" target="_blank">
+  <a href="https://github.com/RupaDey404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -119,5 +119,5 @@ I'm **Rupa**, a passionate **Software Quality Assurance (SQA) Engineer** at **Ne
 </p>
 
 <p align="center">
-  <i>⭐ If you find my work helpful, feel free to star my repositories!</i>
+  <i>⭐ If you find my work helpful, feel free to star my repositories!..Thank You!!!</i>
 </p>
