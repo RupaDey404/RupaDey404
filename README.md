@@ -99,7 +99,7 @@ I'm **Rupa**, a passionate **Software Quality Assurance (SQA) Engineer** at **Ne
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="mailto:deyrupa.qa525@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=deyrupa.qa525@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
