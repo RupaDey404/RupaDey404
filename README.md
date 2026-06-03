@@ -75,27 +75,6 @@ I'm **Rupa**, a passionate **Software Quality Assurance (SQA) Engineer** at **Ne
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupa&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
